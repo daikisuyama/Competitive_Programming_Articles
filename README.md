@@ -1,0 +1,2 @@
+# Old_Competitive_Programming_Articles
+2019/8~2020/11に作成した競技プログラミング関係の記事の残骸
