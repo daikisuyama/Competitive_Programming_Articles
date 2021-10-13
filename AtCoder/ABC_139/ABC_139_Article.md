@@ -4,7 +4,7 @@
 
 Fは境界部分の場合分けさえできればできそうで、今回は全体的に感触が良かったので、もう少しパフォーマンスをあげたかったです。次のコンテストも頑張って、今月中に緑になる目標を達成したいです。
 
-![](https://github.com/daikisuyama/Old_Competitive_Programming_Articles/blob/main/AtCoder/ABC_139/ABC_139_1.png)
+![](/AtCoder/ABC_139/ABC_139_1.png)
 
 
 # [A問題](https://atcoder.jp/contests/abc139/tasks/abc139_a)
