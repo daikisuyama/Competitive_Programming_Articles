@@ -63,7 +63,7 @@ print(max([c,d]))
 
 ```
 
-#[D問題](https://atcoder.jp/contests/abc139/tasks/abc139_d)
+# [D問題](https://atcoder.jp/contests/abc139/tasks/abc139_d)
 
 今回のセットでおそらく最も早くできた問題でした。
 1~Nである数を割ったときの余りの最大値は0~N-1で、ここでは2~Nで1~N-1をそれぞれ割って1でNを割ればその最大値を満たすということがわかるので、これは上記のように簡単に求めることができます。
