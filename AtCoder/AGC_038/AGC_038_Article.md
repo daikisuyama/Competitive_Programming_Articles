@@ -4,7 +4,7 @@ A問題のみの一完に留まり、B問題に一時間以上費やしたにも
 
 一完に留まりましたがなぜか水色パフォが出ました。もう少しで緑です。
 
-![](https://github.com/daikisuyama/Old_Competitive_Programming_Articles/blob/main/AtCoder/AGC_038/AGC_038_1.png)
+![](/AtCoder/AGC_038/AGC_038_1.png)
 
 
 # [A問題](https://atcoder.jp/contests/agc038/tasks/agc038_a)
@@ -24,7 +24,7 @@ A問題のみの一完に留まり、B問題に一時間以上費やしたにも
 
 入れ替えていってまずは行列を最終的には下のような形にすることができる([公式の解説](https://img.atcoder.jp/agc038/editorial.pdf)を参照)
 
-![](https://github.com/daikisuyama/Old_Competitive_Programming_Articles/blob/main/AtCoder/AGC_038/AGC_038_2.png)
+![](/AtCoder/AGC_038/AGC_038_2.png)
 
 
 ```python:answerA.py
