@@ -7,6 +7,7 @@
 - AtCoder：daikisuyama（削除済み）
 - Codeforces：daikisuyama
 - yukicoder：daikisuyama
+- Qiita:[Daiki Suyama](https://qiita.com/DaikiSuyama)
 
 ## 備考
 
