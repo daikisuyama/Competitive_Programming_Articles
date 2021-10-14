@@ -1,4 +1,4 @@
-# Old_Competitive_Programming_Articles
+# Competitive_Programming_Articles
 
 2019/8~2020/11にQiitaにて投稿した競技プログラミング関係の記事を管理するリポジトリ。
 
