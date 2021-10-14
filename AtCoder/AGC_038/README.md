@@ -2,6 +2,10 @@
 
 AtCoder Grand Contest 038 復習
 
+## コンテストページ
+
+https://atcoder.jp/contests/agc038
+
 ## 内容
 
 - AtCoder Grand Contest 038の復習
