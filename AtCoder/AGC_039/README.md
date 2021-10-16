@@ -6,11 +6,6 @@ AtCoder Grand Contest 039 復習
 
 https://atcoder.jp/contests/agc039
 
-## 内容
-
-- AtCoder Beginner Contest 039の復習
-- 解説よりも復習が中心
-
 ## 投稿日
 
 2019/10/7
