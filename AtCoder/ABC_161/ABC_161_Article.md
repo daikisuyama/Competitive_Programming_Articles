@@ -2,27 +2,9 @@
 
 パフォーマンス的には悪くありませんでしたが、EもFも解けそうで解けなかったので、無念です…。
 
-# [A問題](https://atcoder.jp/contests/abc161/tasks/abc161_a)
+# [A問題](https://atcoder.jp/contests/abc161/tasks/abc161_a)、[B問題](https://atcoder.jp/contests/abc161/tasks/abc161_b)
 
-7が入ってるかをチェックするのみです。
-
-```python:A.py
-n=list(input())
-print("Yes" if "7" in n else "No")
-```
-
-# [B問題](https://atcoder.jp/contests/abc161/tasks/abc161_b)
-
-3でも5でも割れないものの総和を考えれば良いです。`i%3==0 and i%5==0`としていたため、解くのに数分かかりました。
-
-```python:B.py
-ans=0
-n=int(input())
-for i in range(1,n+1):
-    if i%3!=0 and i%5!=0:
-        ans+=i
-print(ans)
-```
+コードが残っていなかったため、省略します。
 
 # [C問題](https://atcoder.jp/contests/abc161/tasks/abc161_c)
 
