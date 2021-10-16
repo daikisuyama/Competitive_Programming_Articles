@@ -6,11 +6,6 @@ AtCoder Grand Contest 041 復習
 
 https://atcoder.jp/contests/agc041
 
-## 内容
-
-- AtCoder Grand Contest 041の復習
-- 解説よりも復習が中心
-
 ## 投稿日
 
 2020/1/1
