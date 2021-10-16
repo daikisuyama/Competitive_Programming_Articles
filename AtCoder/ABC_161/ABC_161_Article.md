@@ -1,10 +1,14 @@
-# 今回の感想
+# 感想
 
-パフォーマンス的には悪くありませんでしたが、EもFも解けそうで解けなかったので、無念です…。
+（不備があったため、省略します。）
 
-# [A問題](https://atcoder.jp/contests/abc161/tasks/abc161_a)、[B問題](https://atcoder.jp/contests/abc161/tasks/abc161_b)
+# [A問題](https://atcoder.jp/contests/abc161/tasks/abc161_a)
 
-コードが残っていなかったため、省略します。
+（不備があったため、省略します。）
+
+# [B問題](https://atcoder.jp/contests/abc161/tasks/abc161_b)
+
+（不備があったため、省略します。）
 
 # [C問題](https://atcoder.jp/contests/abc161/tasks/abc161_c)
 
