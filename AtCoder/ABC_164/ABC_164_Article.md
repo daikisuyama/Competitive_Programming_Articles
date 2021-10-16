@@ -30,7 +30,7 @@ while True:
     check=not check
 ```
 
-#[C問題](https://atcoder.jp/contests/abc164/tasks/abc164_c)
+#　[C問題](https://atcoder.jp/contests/abc164/tasks/abc164_c)
 
 よくあるパターンです。被りなしで何通りかなので、setを使います。
 
@@ -42,7 +42,7 @@ for i in range(n):
 print(len(s))
 ```
 
-#[D問題](https://atcoder.jp/contests/abc164/tasks/abc164_d)
+#　[D問題](https://atcoder.jp/contests/abc164/tasks/abc164_d)
 
 まず、サンプルを見ると、**パターンが少ない**ことに気づきます。そして、**iからjの文字列を愚直に全て書き出すとO($N^2$)で間に合わない**ということも明らかです。
 
