@@ -9,7 +9,3 @@ https://atcoder.jp/contests/abc046
 ## 投稿日
 
 2020/6/24
-
-## 備考
-
-- 記述を一部修正
