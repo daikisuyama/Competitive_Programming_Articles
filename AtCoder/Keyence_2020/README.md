@@ -9,7 +9,3 @@ https://atcoder.jp/contests/keyence2020
 ## 投稿日
 
 2019/9/4
-
-## 備考
-
-- 記述を一部修正
