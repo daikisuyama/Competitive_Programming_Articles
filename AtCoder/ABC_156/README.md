@@ -9,7 +9,3 @@ https://atcoder.jp/contests/abc156
 ## 投稿日
 
 2020/2/27
-
-## 備考
-
-- 記述を一部修正
