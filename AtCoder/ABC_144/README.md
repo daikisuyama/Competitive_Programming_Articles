@@ -9,7 +9,3 @@ https://atcoder.jp/contests/abc144
 ## 投稿日
 
 2019/10/29
-
-## 備考
-
-- 記述を一部修正
